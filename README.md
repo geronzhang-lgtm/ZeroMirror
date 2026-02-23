@@ -55,7 +55,7 @@ pnpm install
 
 3. **启动开发服务**
 ```bash
-coze dev
+pnpm dev
 ```
 
 4. **访问系统**
@@ -66,10 +66,10 @@ coze dev
 
 ```bash
 # 构建
-coze build
+pnpm build
 
 # 启动
-coze start
+pnpm start
 ```
 
 ## 项目结构
